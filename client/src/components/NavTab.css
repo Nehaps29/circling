@@ -1,0 +1,12 @@
+/* NavTabs.css */
+
+.custom-tab.active {
+    background-color: #1863a0;
+  }
+  
+  .custom-tab.hover:hover {
+    background-color: #ebd52c;
+  }
+  
+  /* Additional styles can be added here */
+  
